@@ -25,4 +25,4 @@ Setup & Usages:
 
     Remarks for update:
         ifconfig wlp3s0 > wl.txt | python3 rt.py
-        replace wlp3s0 with your own Enther card name. You can use ifconfig command to clarify it.
+        replace wlp3s0 with your own Enthernet card name. You can use ifconfig command to clarify it.
